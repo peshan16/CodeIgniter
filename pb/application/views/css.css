@@ -1,0 +1,17 @@
+body{
+    margin: 0 auto;
+    background-color: #1ab188s;
+    background-repeat: no-repeat;
+    background-size: 100% 720px;
+    background-position: center;
+}
+.form1{
+    width: 500px;
+    height: 450px;
+    text-align: center;
+    background-color: rgba(52, 73,94,0.7);
+    margin-top: 150px;
+    border-radius: 4px;
+    margin: 0 auto;
+    margin-top: 150px;
+}
